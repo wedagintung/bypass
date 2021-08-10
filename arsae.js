@@ -1,6 +1,4 @@
 var ars 	= rChoice([
-	'https://enjooymart.com/',
-	'https://1hotel1.com/',
     'https://microgreenskit.net/',
 	]);
 
