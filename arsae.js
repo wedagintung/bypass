@@ -1,5 +1,6 @@
 var ars 	= rChoice([
     'https://microgreenskit.net/',
+    'https://microgreenskit.net/',
 	]);
 
 function rChoice(arr) {
